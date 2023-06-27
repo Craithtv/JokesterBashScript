@@ -1,5 +1,5 @@
 # JokesterBashScript
-This is a simple Bash Script to get told a random joke.
+This is a simple Bash Script to get told a random joke. This was an assignment during my internship to practice scripting in Bash and become more familiar with Linux Bash Commands. This shows the usage of Bash variables, putting those into an array, and then returning a random index back.
 
 # To Run Bash Script
 Download file in wanted directory
